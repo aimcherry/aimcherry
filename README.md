@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hei, i'm cherry c:</h1>
 
-![heyoo](https://media.tenor.com/h4SfGuNjLE4AAAAC/takumi-calling.gif)
+![heyoo](https://i.imgur.com/fyhK33K.gif)
 
 <br>
 
