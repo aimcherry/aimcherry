@@ -5,9 +5,11 @@
 
 <br>
 
+<p width="200px">
 I write code since i'm 6 years old and love building things that enrich our beautiful world.<br>
-My ADHD makes me go off on random projects every now and then, so i post them here if someone finds them useful.
-
+My ADHD makes me go off on random projects every now and then, so i post them here if <br>  someone finds them useful.
+<p>
+  
 #
 
 <br>
