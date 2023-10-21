@@ -6,7 +6,7 @@
 <br>
 
 <p width="200px">
-I write code since i'm 6 years old and love building things that enrich our beautiful world.<br>
+I write code since i'm 6 years old and i love building things that enrich our beautiful world.<br>
 Sometimes i go off on random projects, so i post them here if someone finds them useful.
 <p>
   
