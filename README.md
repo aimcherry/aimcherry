@@ -16,6 +16,6 @@ My ADHD makes me go off on random projects every now and then, so i post them he
 
 Wanna talk? Add me here <br>
 <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" height="14px">
-aimcherry  <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" height="14px">
-aimcherryuwu
+chattycherry  <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" height="14px">
+birbcherry
 </div>
