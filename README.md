@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+<h3>Hei, i'm cherry c:</h1>
 
-<!--
-**aimcherry/aimcherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![heyoo](https://media.tenor.com/h4SfGuNjLE4AAAAC/takumi-calling.gif)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write code since i'm 6 years old and love building things that enrich our beautiful world.<br>
+My ADHD makes me go off on random projects every now and then, so i post them here if someone finds them useful.
+
+#
+
+<br>
+
+Wanna talk? Add me here <br>
+<img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" height="14px">
+aimcherry
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" height="14px">
+aimcherryuwu
+</div>
