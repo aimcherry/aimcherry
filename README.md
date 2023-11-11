@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hei, i'm cherry c:</h1>
 
-![heyoo](https://i.imgur.com/fyhK33K.gif)
+![heyoo](https://i.imgur.com/fgCC63O.gif)
 
 <br>
 
