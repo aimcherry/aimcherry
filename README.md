@@ -1,8 +1,6 @@
 <div align="center">
 <h3>Hei, i'm cherry c:</h1>
 
-![heyoo](https://i.imgur.com/fyhK33K.gif)
-
 <br>
 
 <p width="200px">
